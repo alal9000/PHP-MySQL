@@ -1,0 +1,19 @@
+08:20, 12th July 2021	1 tires 	2 oil	3 spark plugs	$145.2	Unit 14, 76-82 ANZAC PDE
+08:21, 12th July 2021	147 tires 	22 oil	32 spark plugs	$16552.8	Unit 14, 76-82 ANZAC PDE
+08:25, 12th July 2021	1 tires 	3 oil	7 spark plugs	$173.8	8 tornado place
+13:15, 12th July 2021	8 tires 	8 oil	8 spark plugs	$1003.2	8 tornado place
+13:21, 12th July 2021	8 tires 	8 oil	8 spark plugs	$1003.2	8 tornado place
+13:24, 12th July 2021	8 tires 	8 oil	8 spark plugs	$1003.2	8 tornado place
+13:24, 12th July 2021	10 tires 	10 oil	10 spark plugs	$1254	8 tornado place
+13:27, 12th July 2021	102 tires 	105 oil	104 spark plugs	$12832.6	8 tornado place
+13:33, 12th July 2021	102 tires 	105 oil	104 spark plugs	$12832.6	8 tornado place
+05:42, 13th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+09:33, 13th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+11:10, 13th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+03:05, 14th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+07:36, 14th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+11:09, 14th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+12:13, 14th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+12:14, 14th July 2021	0 tires 	0 oil	0 spark plugs	$0	
+12:16, 14th July 2021	1 tires 	3 oil	5 spark plugs	$165	8 tornado place west harbour auckland, NZ
+14:23, 15th July 2021	4 tires 	3 oil	5 spark plugs	$495	anzac pde
